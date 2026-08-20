@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HC-Dash</string>
+    <string name="health_connect_rationale">HC-Dash needs access to Health Connect to display your activity, vitals, sleep, body composition, and stress metrics with local analysis.</string>
+</resources>
